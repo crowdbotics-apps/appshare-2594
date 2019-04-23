@@ -1,0 +1,3 @@
+rootProject.name = 'appshare_2594'
+
+include ':app'
